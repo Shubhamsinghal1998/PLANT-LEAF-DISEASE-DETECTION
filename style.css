@@ -1,0 +1,6 @@
+/* Target both the html and body elements */
+html, body {
+    background-color: #2727b8; /* Light purple color */
+    height: 100%;
+    margin: 0;
+}
